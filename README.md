@@ -1,5 +1,5 @@
 # MATLAB Polynomial Evaluation and Sorting
-This repository contains MATLAB functions designed for polynomial evaluation and sorting. The primary focus is on implementing and utilizing polynomial evaluation through Horner's Rule, both in sparse and unsorted forms, along with a custom insertion sort and a utility function to find elements in an array.
+This repository contains MATLAB functions designed for polynomial evaluation and sorting. The primary focus is on implementing and utilising polynomial evaluation through Horner's Rule, both in sparse and unsorted forms, along with a custom insertion sort and a utility function to find elements in an array.
 
 ## Functions
 This folder contains six functions with the following objectives:
